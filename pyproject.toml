@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 
 # パッケージのメタデータ
 [project]
-name = "kunihiko_package_kunipico"  #YOUR_USERNAME_HEREにはあなたの名前を入れてください。
+name = "kunihiko_package_kunipico" 
 version = "0.0.1"
 authors = [
   { name="Example Author", email="author@example.com" },
